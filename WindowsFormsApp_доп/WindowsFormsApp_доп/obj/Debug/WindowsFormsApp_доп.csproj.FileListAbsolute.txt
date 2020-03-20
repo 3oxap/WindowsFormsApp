@@ -1,0 +1,10 @@
+D:\документы\практические работы\учебная практика по прогруммированию\WindowsFormsApp\WindowsFormsApp_доп\WindowsFormsApp_доп\bin\Debug\WindowsFormsApp_доп.exe.config
+D:\документы\практические работы\учебная практика по прогруммированию\WindowsFormsApp\WindowsFormsApp_доп\WindowsFormsApp_доп\bin\Debug\WindowsFormsApp_доп.exe
+D:\документы\практические работы\учебная практика по прогруммированию\WindowsFormsApp\WindowsFormsApp_доп\WindowsFormsApp_доп\bin\Debug\WindowsFormsApp_доп.pdb
+D:\документы\практические работы\учебная практика по прогруммированию\WindowsFormsApp\WindowsFormsApp_доп\WindowsFormsApp_доп\obj\Debug\WindowsFormsApp_доп.csprojAssemblyReference.cache
+D:\документы\практические работы\учебная практика по прогруммированию\WindowsFormsApp\WindowsFormsApp_доп\WindowsFormsApp_доп\obj\Debug\WindowsFormsApp_доп.Form1.resources
+D:\документы\практические работы\учебная практика по прогруммированию\WindowsFormsApp\WindowsFormsApp_доп\WindowsFormsApp_доп\obj\Debug\WindowsFormsApp_доп.Properties.Resources.resources
+D:\документы\практические работы\учебная практика по прогруммированию\WindowsFormsApp\WindowsFormsApp_доп\WindowsFormsApp_доп\obj\Debug\WindowsFormsApp_доп.csproj.GenerateResource.cache
+D:\документы\практические работы\учебная практика по прогруммированию\WindowsFormsApp\WindowsFormsApp_доп\WindowsFormsApp_доп\obj\Debug\WindowsFormsApp_доп.csproj.CoreCompileInputs.cache
+D:\документы\практические работы\учебная практика по прогруммированию\WindowsFormsApp\WindowsFormsApp_доп\WindowsFormsApp_доп\obj\Debug\WindowsFormsApp_доп.exe
+D:\документы\практические работы\учебная практика по прогруммированию\WindowsFormsApp\WindowsFormsApp_доп\WindowsFormsApp_доп\obj\Debug\WindowsFormsApp_доп.pdb

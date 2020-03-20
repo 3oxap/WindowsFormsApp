@@ -1,0 +1,10 @@
+D:\документы\практические работы\учебная практика по прогруммированию\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+D:\документы\практические работы\учебная практика по прогруммированию\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+D:\документы\практические работы\учебная практика по прогруммированию\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+D:\документы\практические работы\учебная практика по прогруммированию\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csprojAssemblyReference.cache
+D:\документы\практические работы\учебная практика по прогруммированию\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+D:\документы\практические работы\учебная практика по прогруммированию\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+D:\документы\практические работы\учебная практика по прогруммированию\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+D:\документы\практические работы\учебная практика по прогруммированию\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\документы\практические работы\учебная практика по прогруммированию\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+D:\документы\практические работы\учебная практика по прогруммированию\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
